@@ -18,8 +18,8 @@ This solution was done with HTML and CSS using flexbox. Due to the simplicity of
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/grainedhen1467/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/grainedhen1467/qr-code-component)
+- Live Site URL: [Add live site URL here](https://grainedhen1467.github.io/qr-code-component/)
 
 ### Built with
 
